@@ -53,7 +53,6 @@ The entire application stack is containerized.
 1. **Clone the repository:**
    `bash
    git clone https://github.com/Chandrasekhar0583/Build-Production-Ready-Payment-Gateway-with-Async-Processing-and-Webhooks.git
-   cd Payment_Gateway_Extension
    `
 
 2. **Start the services:**
